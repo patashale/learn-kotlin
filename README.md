@@ -25,6 +25,6 @@
 
 #### Logo:
 
-   Learn Kotlin | Learn Kotlin
-  :-------------------------:|:-------------------------:
+Learn Kotlin `#7F52FF` | Learn Kotlin `#7F52FF`
+:-------------------------:|:-------------------------:
 ![Learn Kotlin Logo](https://github.com/patashale/learn-kotlin/assets/68323012/4ee69578-4405-4961-9949-0514d4f989d5) | ![Learn Kotlin Logo](https://github.com/patashale/learn-kotlin/assets/68323012/4ee69578-4405-4961-9949-0514d4f989d5)
